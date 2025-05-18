@@ -108,7 +108,3 @@ This project is open source under the [MIT License](LICENSE).
 If you like this project, don't forget to ⭐ star the repository!
 
 ---
-
-Would you also like me to create a ready-to-use **GitHub repo folder structure** + **requirements.txt** for you for both projects together? 🚀  
-(So you can instantly upload and show it off!)  
-Just say "**yes GitHub setup**"! 🎯
